@@ -1,0 +1,30 @@
+{
+  "name": "kotlin-script",
+  "version": "1.0.0",
+  "description": "Write a subset of Kotlin in <script type=\"text/kotlin\"> tags or .js files and run it directly in the browser — no build step, no compiler install.",
+  "main": "src/kotlin.js",
+  "browser": "src/kotlin.js",
+  "unpkg": "src/kotlin.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "kotlin",
+    "kotlin.js",
+    "transpiler",
+    "browser",
+    "script",
+    "javascript",
+    "compiler"
+  ],
+  "author": "asnl",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asnlx/kotlin-js.git"
+  },
+  "homepage": "https://github.com/asnlx/kotlin-js#readme",
+  "engines": {
+    "node": ">=12"
+  }
+}
