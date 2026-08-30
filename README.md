@@ -23,14 +23,14 @@
 ## Установка
 
 ```bash
-npm install kotlin.js
+npm install @asknl/kotlin
 ```
 
-или просто подключите файл из `node_modules/kotlin-script/src/kotlin.js`
+или просто подключите файл из `node_modules/@asnl/kotlin/src/kotlin.js`
 (или через unpkg/jsDelivr):
 
 ```html
-<script src="https://unpkg.com/kotlin-script/src/kotlin.js"></script>
+<script src="https://unpkg.com/@asnl/kotlin/src/kotlin.js"></script>
 ```
 
 ## Использование

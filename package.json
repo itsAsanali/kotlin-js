@@ -1,5 +1,5 @@
 {
-  "name": "kotlin-script",
+  "name": "@asnl/kotlin",
   "version": "1.0.0",
   "description": "Write a subset of Kotlin in <script type=\"text/kotlin\"> tags or .js files and run it directly in the browser — no build step, no compiler install.",
   "main": "src/kotlin.js",
