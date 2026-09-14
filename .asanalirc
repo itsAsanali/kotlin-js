@@ -1,1 +1,7 @@
-{"name":"kotlin-js","author":"itsAsanali","language":"html","license":"none","encoding":"UTF-8"}
+{
+    "name": "kotlin-js",
+    "author": "asanaIi",
+    "language": "html",
+    "license": "none",
+    "encoding": "UTF-8"
+}
